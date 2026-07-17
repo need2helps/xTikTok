@@ -1,7 +1,7 @@
 # xTikTok
 Download the official XTIKTOK Android app
 
-[![Back to the home page](./js/xtiktoks.white.svg)](https://github.com/need2helps/xTikTok/releases/download/1.0.0/tiktok-STABLE.1.0.0.apk)
+[![Back to the home page](./js/xtiktoks.black.svg)](https://github.com/need2helps/xTikTok/releases/download/1.0.0/tiktok-STABLE.1.0.0.apk)
 
 XTIKTOK APP
 ===========
