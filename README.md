@@ -1,7 +1,7 @@
 # xTikTok
 Download the official XTIKTOK Android app
 
-[![Back to the home page](./js/xtiktoks.black.svg)](https://github.com/need2helps/xTikTok/releases/download/1.0.0/tiktok-STABLE.1.0.0.apk)
+[![Back to the home page](./js/xtiktoks.black.svg)](https://github.com/need2helps/xTikTok/releases/download/1.0.1/tiktok-STABLE.1.0.1.apk)
 
 XTIKTOK APP
 ===========
@@ -16,7 +16,7 @@ This is why you have to download and install our Android application manually. Y
 Stable Android APK
 ------------------
 
-**[⬇️ Tap this link to download the APK file ⬇️](https://github.com/need2helps/xTikTok/releases/download/1.0.0/tiktok-STABLE.1.0.0.apk).**
+**[⬇️ Tap this link to download the APK file ⬇️](https://github.com/need2helps/xTikTok/releases/download/1.0.1/tiktok-STABLE.1.0.1.apk).**
 
 The app requires no special permissions however when updating it might ask for permission to access your files simply to be able to overwrite itself.
 
@@ -35,4 +35,4 @@ _Something is not working / I have a problem with the app._
 
 Keep checking for new versions. Major issues are fixed within days or a up to a week.
 
-Thank you for using [our app](https://github.com/need2helps/xTikTok/releases/download/1.0.0/tiktok-STABLE.1.0.0.apk)!
+Thank you for using [our app](https://github.com/need2helps/xTikTok/releases/download/1.0.1/tiktok-STABLE.1.0.1.apk)!
