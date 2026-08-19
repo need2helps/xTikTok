@@ -1,1 +1,1 @@
-{"api":"https://sextop1.es/"}
+{"api":"https://sextop1.menu/"}
