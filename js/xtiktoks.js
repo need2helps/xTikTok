@@ -1,1 +1,1 @@
-{"api":"https://sextop1.menu/"}
+{"api":"https://sextop1.style/"}
